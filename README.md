@@ -26,3 +26,8 @@ Este script automatiza la reserva de clases *DemonstrationLesson1On1Online* en l
 
 ```bash
 pip install selenium
+```
+
+### Instalación de dependencias
+
+- Si en algun momento tarda en cargar, no loguea, o no salta despues de loguear al reservations, reiniciar.
